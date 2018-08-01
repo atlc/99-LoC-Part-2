@@ -1,0 +1,20 @@
+body {
+    background-color: rgba(20, 87, 155, 0.5);
+}
+
+h1 {
+    color: white;
+}
+
+.friend {
+    background-color: rgba(2, 146, 103, 0.6);
+    color: white;
+}
+
+.friend h3 {
+    text-transform: uppercase;
+}
+
+.jumbotron {
+    background-color: rgba(0, 0, 0, 0.65);
+}

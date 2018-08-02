@@ -9,6 +9,7 @@ h1 {
 .friend {
     background-color: rgba(2, 146, 103, 0.6);
     color: white;
+    border: 1px solid black;
 }
 
 .friend h3 {
